@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.flex {	
+	padding: 10px 0 0 30px;
+	color: black;
+	display: flex;
+}
+
+.flex img {
+	padding-left: 20px;
+	width: 150px
+}
