@@ -1,0 +1,36 @@
+* c3dd559 (HEAD -> master) Revert "reset test"
+|  index.html | 2 +-
+|  1 file changed, 1 insertion(+), 1 deletion(-)
+* 2d11d9d (origin/master) reset test
+|  index.html | 2 +-
+|  1 file changed, 1 insertion(+), 1 deletion(-)
+* 303bfd2 reflog test
+|  index.html | 1 +
+|  1 file changed, 1 insertion(+)
+*   3ba896d merged second and third
+|\  
+| * 964ea3f (origin/third) push to origin/third
+| |  index.html | 2 +-
+| |  1 file changed, 1 insertion(+), 1 deletion(-)
+* | 6dea123 (origin/second) push to origin/second
+|/  
+|    index.html | 2 +-
+|    1 file changed, 1 insertion(+), 1 deletion(-)
+*   3ea7808 merge second and third branch
+|\  
+| * c9bd5cb Third branch
+| |  index.html | 2 +-
+| |  1 file changed, 1 insertion(+), 1 deletion(-)
+* | d1b9e32 edit at second branch
+|/  
+|    index.html | 2 +-
+|    1 file changed, 1 insertion(+), 1 deletion(-)
+* f6a707e Second commit
+|  index.html | 1 +
+|  1 file changed, 1 insertion(+)
+* 7a6c134 first commit
+   css/reset.css | 247 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   css/style.css |  12 +++
+   index.html    |  22 +++++
+   penguin.png   | Bin 0 -> 41427 bytes
+   4 files changed, 281 insertions(+)
